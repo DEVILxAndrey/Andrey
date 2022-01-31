@@ -1,10 +1,15 @@
-﻿
-			#parent {
-				width: 200px;
-				border: 1px solid orange;
-			}
-			#child {
-				margin: 100px 50px;
-				height: 50px;
-				border: 1px dashed blue;
-			}
+﻿#elem1 {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	margin-bottom: 20px;
+}
+
+#elem2 {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	padding: 25px; /* задаем отступы */
+	border: 10px solid green;  /* задаем границу */
+	box-sizing: border-box;  /* убираем расширение */
+}
