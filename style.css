@@ -1,2 +1,4 @@
-.eee .bbb .kkk {
 p.bbb {
+p .bbb {
+	color: red;
+} 
