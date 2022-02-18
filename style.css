@@ -1,4 +1,4 @@
-p.bbb {
 p .bbb {
+.eee p.bbb {
 	color: red;
 } 
