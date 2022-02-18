@@ -1,3 +1,4 @@
-#elem h2{
-#elem .text
-	color: green;}
+#elem .text{
+	color: green;
+#elem p.text {
+	color: red;
