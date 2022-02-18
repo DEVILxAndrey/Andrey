@@ -1,9 +1,9 @@
-.eee p .bbb {
 .success {
 	color: green;
 }
 .error {
 	color: red;
+background: #0C0C0C;
 }
 .large {
 	font-size: 30px;
