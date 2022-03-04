@@ -1,2 +1,2 @@
-#block p.bbb,#block p.xxx{color: red;} 
 .fff{color: red;} 
+.fff p{color: red;} 
