@@ -1,10 +1,2 @@
-/*.eee h2.zzz {
-	text-align: center;
-}
-.xxx {
-	text-align: center;
-}было*/
-.eee h2.zzz ,.xxx {
-	text-align: center;
-}/*стало*/
 div {color: red;} 
+div h2{color: red;} 
