@@ -1,2 +1,2 @@
-#block p.bbb{color: red;} 
 .bbb,.xxx{color: red;} 
+p.bbb,h2.xxx{color: red;} 
