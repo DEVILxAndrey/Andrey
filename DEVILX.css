@@ -1,12 +1,16 @@
-[class *="top-"] {background: gray;} 
 a:link {
 color: blue;}
+color: blue;
+text-decoration: none;}
 a:visited {
 	color: green;
 }
+color: blue;text-decoration: none;}
 a:hover {
 	color: red;
+	text-decoration: underline;
 }
 a:active {
 	color: black;
 } 
+color: blue;text-decoration: none;} 
