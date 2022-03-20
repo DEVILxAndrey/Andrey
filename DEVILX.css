@@ -1,7 +1,7 @@
 li:first-child {
+li:nth-child(3) {
 	color: red;
 }
-li:last-child {
 li:last-child  {
 	color: green;
 } 
