@@ -1,2 +1,2 @@
-[href *=".html"] {background: gray;} 
 [title *="привет"] {background: gray;} 
+[class *="top-"] {background: gray;} 
