@@ -1,2 +1,2 @@
-[href ="http://"] {color: red;} 
 [href *=".html"] {background: gray;} 
+[title *="привет"] {background: gray;} 
