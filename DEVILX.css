@@ -1,7 +1,6 @@
-.block a.zzz {
 li:first-child {
 	color: red;
 }
-.block a.zzz:hover {
-	text-decoration: none;
+li:last-child {
+	color: green;
 } 
