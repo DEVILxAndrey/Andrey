@@ -1,4 +1,8 @@
-li:nth-child(3n) {
 li:nth-last-child(2) {
+li:only-child {
 	color: red;
 }
+
+ul {
+	margin-bottom: 10px;
+} 
