@@ -1,8 +1,7 @@
-#block a.zzz {
 .block a.zzz {
+li:first-child {
 	color: red;
 }
-#block a.zzz:hover {
 .block a.zzz:hover {
 	text-decoration: none;
 } 
