@@ -3,7 +3,7 @@ h2 {
 	color: blue;
 }
 h2 {
-	font-size: 30px;
 	font-style: italic;
 	color: red;
 } 
+#elem+li{color: red;} 
