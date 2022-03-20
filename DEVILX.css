@@ -1,15 +1,8 @@
-a:link {
-color: blue;
-text-decoration: none;}
-a:visited {
-color: blue;text-decoration: none;}
-a:hover {
 a {
+a.zzz {
 	color: red;
-	text-decoration: underline;
 }
-a:active {
-color: blue;text-decoration: none;} 
 a:hover {
+a.zzz:hover {
 	text-decoration: none;
 } 
